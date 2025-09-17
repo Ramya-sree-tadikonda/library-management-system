@@ -18,6 +18,6 @@ Swagger UI integration for easy API testing
 MySQL database integration  
 Layered architecture with Service, Repository, and Controller  
 
-#Swagger-UI to Test API's
+# Swagger UI to Test API's
 http://localhost:8080/swagger-ui/index.html
 
